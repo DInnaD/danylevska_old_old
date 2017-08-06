@@ -608,9 +608,8 @@ nav li a{
 }
 .block15-static-info ul li:last-of-type{
     border-right: none;
-    padding-right: 0;
-    margin-right: 0;
-    margin-right: 0;
+     padding-right: 35px;
+    padding-left: 35px;
 }
 .content25-t-t-t-t br .next{
     margin-bottom: 24px;
